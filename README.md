@@ -1,4 +1,4 @@
-# 8-RAG技术与应用
+# Practical RAG
 
 RAG（Retrieval-Augmented Generation，检索增强生成）技术实战项目集合。
 
@@ -9,7 +9,7 @@ RAG（Retrieval-Augmented Generation，检索增强生成）技术实战项目�
 ## 项目结构
 
 ```
-8-RAG技术与应用/
+practical-rag/
 ├── CASE-ChatPDF-Faiss/     # ChatPDF与Faiss向量数据库
 ├── CASE-embedding使用/       # Embedding模型使用
 ├── CASEA-Query改写/         # Query查询改写

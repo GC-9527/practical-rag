@@ -92,12 +92,6 @@ python 1-Query改写.py
 - **LLM** - Qwen等大模型
 - **框架** - LangChain等
 
-## 学习路径
-
-1. 先学习`CASE-embedding使用` - 理解向量表示
-2. 再学习`CASEA-Query改写` - 掌握查询优化
-3. 最后学习`CASE-ChatPDF-Faiss` - 构建完整系统
-
 ## 注意事项
 
 - 向量数据库文件不会提交到git
